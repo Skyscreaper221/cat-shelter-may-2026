@@ -1,0 +1,22 @@
+{
+  "name": "cat-shelter-may-2026",
+  "version": "1.0.0",
+  "description": "SoftUni JS Back-End Course Workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skyscreaper221/cat-shelter-may-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Skyscreaper221/cat-shelter-may-2026/issues"
+  },
+  "homepage": "https://github.com/Skyscreaper221/cat-shelter-may-2026#readme"
+}
